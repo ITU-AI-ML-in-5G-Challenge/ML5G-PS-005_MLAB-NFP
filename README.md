@@ -20,5 +20,7 @@ Our report and PowerPoint file of the slides of our presentation are the same fi
 ## Code
 The code and description is available [here](https://github.com/ITU-AI-ML-in-5G-Challenge/ML5G-PS-005_MLAB-NFP/tree/main/code).
 
+## Models
+The description of constructed models is available [here](https://github.com/ITU-AI-ML-in-5G-Challenge/ML5G-PS-005_MLAB-NFP/tree/main/code).
 
 
