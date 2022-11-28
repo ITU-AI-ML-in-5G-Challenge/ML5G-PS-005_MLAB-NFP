@@ -1,5 +1,5 @@
 # Models
-The regression models for both tasks were constructed by [Autogluon-Tablular](https://arxiv.org/pdf/2003.06505.pd).
+The regression models for both tasks were constructed by [Autogluon-Tablular](https://arxiv.org/pdf/2003.06505.pdf).
 Our models can be accessed by the links below.
 
 ## Task 1 
