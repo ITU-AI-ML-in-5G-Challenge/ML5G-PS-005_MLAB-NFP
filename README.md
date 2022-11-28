@@ -1,21 +1,17 @@
-# Network Failure Prediction main links
+# ML5G-PS-005_MLAB-NFP
+This code present our results to ML5G-PS-005: Network failure prediction on CNFs 5GC with Linux eBPF.
 Details about the challenge are available at https://challenge.aiforgood.itu.int/match/matchitem/64
 
-Datasets are available after registration
+### Team information 
+Team: MLAB-NFP<br>
+Members: Jiwon Lee, Bojian Du, Kentaro Matsuura, and Ryoma Kondo (from The University of Tokyo, Japan)<br>
 
-# Team Info
-Team: MLAB-NFP
+## Report and slides
+Our report and PowerPoint file of the slides of our presentation are the same file, titled "Regression-based Practical Network Failure Prediction on 5G Core Network Using AutoML", which is available [here](https://github.com/ITU-AI-ML-in-5G-Challenge/ML5G-PS-005_MLAB-NFP/tree/main/report%20%26%20slide).
 
-Team members: Jiwon Lee, Bojian Du, Kentaro Matsuura, and Ryoma Kondo (from The University of Tokyo, Japan)
+## Code
+The code and description is available [here](https://github.com/ITU-AI-ML-in-5G-Challenge/ML5G-PS-005_MLAB-NFP/tree/main/report%20%26%20slide).
 
-Presentation Title: Regression-based Practical Network Failure Prediction on 5G Core Network Using AutoML
-
-
-
-
-
-# Descriptions
-writen by Google Colaboratory
 
 # Background
 Goal of this challenge is to check how early and accurately the future network failures can be predicted using 3 types of metrics
@@ -25,15 +21,6 @@ The target value for prediction is the number of registration failure at 10 minu
 There are 2 different tasks.
 In task 1, we used all 3326 metrics for predicting the number of registration failure at 10 mintues. 
 In task 2, we selected a part of metrics for the same prediction.
-
-
-# Data tuning
-Training Data:
-Use different strategies for normal and abnormal cycles. For normal cycles, downsample the whole cycle by getting few rows at a constant interval. For abnormal cycles, use the data at early stage of failure event, for early prediction. Here, use the same number of rows for both normal and abnormal cycles to avoid data imbalance. 
-
-
-Output Data:
-Use the number of registration failures at 10 minute of the same cycle to predict the number of registration failures at 10 minutes at any time in the cycle.
 
 
 # Evaluation
