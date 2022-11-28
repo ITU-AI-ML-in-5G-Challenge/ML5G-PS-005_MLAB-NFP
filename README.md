@@ -1,14 +1,18 @@
-# ML5G-PS-005_MLAB-NFP
-Presentation Title: Regression-based Practical Network Failure Prediction on 5G Core Network Using AutoML
-
-Team: MLAB-NFP
-
-Team members: Jiwon Lee, Bojian Du, Kentaro Matsuura, Ryoma Kondo of The University of Tokyo, Japan
-
 # Network Failure Prediction main links
 Details about the challenge are available at https://challenge.aiforgood.itu.int/match/matchitem/64
 
 Datasets are available after registration
+
+# Team Info
+Team: MLAB-NFP
+
+Team members: Jiwon Lee, Bojian Du, Kentaro Matsuura, and Ryoma Kondo (from The University of Tokyo, Japan)
+
+Presentation Title: Regression-based Practical Network Failure Prediction on 5G Core Network Using AutoML
+
+
+
+
 
 # Descriptions
 writen by Google Colaboratory
