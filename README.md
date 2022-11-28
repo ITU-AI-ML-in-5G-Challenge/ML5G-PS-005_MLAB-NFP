@@ -15,7 +15,7 @@ Members: Jiwon Lee, Bojian Du, Kentaro Matsuura, and Ryoma Kondo (from The Unive
 
 
 ## Report and slides
-Our report and PowerPoint file of the slides of our presentation are the same file, titled "Regression-based Practical Network Failure Prediction on 5G Core Network Using AutoML", which is available [here](https://github.com/ITU-AI-ML-in-5G-Challenge/ML5G-PS-005_MLAB-NFP/tree/main/report%20%26%20slide).
+Our report and PowerPoint file of the slides of our presentation are the same file, titled "Regression-based Practical Network Failure Prediction on 5G Core Network Using AutoML", which is available [here](https://github.com/ITU-AI-ML-in-5G-Challenge/ML5G-PS-005_MLAB-NFP/blob/main/report%20%26%20slide/5Gchallenge_ML5G-PS-005_MLAB-NFP.pdf).
 
 ## Code
 The code and description is available [here](https://github.com/ITU-AI-ML-in-5G-Challenge/ML5G-PS-005_MLAB-NFP/tree/main/code).
